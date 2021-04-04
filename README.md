@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! I am Ilya 👋
+A Software Engineer with an interest in programming languages and tools.
 
 <!--
 **ibalashov24/ibalashov24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
